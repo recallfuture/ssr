@@ -1,0 +1,6 @@
+client for multi-platform
+
+Android: *.apk
+Linux python: *.zip
+LInux GUI: *.tar.gz
+Windows: *.7z
